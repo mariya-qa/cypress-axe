@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://staging.moteefe.com",
+  "viewportWidth": 1440,
+  "viewportHeight": 660,
+  "projectId": "rsmmq2",
+  "defaultCommandTimeout": 20000,
+  "chromeWebSecurity": false
+}

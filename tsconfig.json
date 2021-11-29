@@ -1,0 +1,11 @@
+{
+  "resolveJsonModule": true,
+  "skipLibCheck": true,
+  "esModuleInterop": true,
+  "allowSyntheticDefaultImports": true,
+  "include": ["../node_modules/cypress", "*/*.ts", "*/*.json"],
+  "compilerOptions": {
+    "noEmit": false,
+    "types": ["cypress", "cypress-file-upload", "cypress-axe"]
+  }
+}
